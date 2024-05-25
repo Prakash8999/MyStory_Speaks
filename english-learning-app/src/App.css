@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800,900');
+
+body {
+  font-family: "Outfit"
+}
+
+.inputShadow {
+  box-shadow: 0px 2px 7px 0px rgba(44, 48, 94, 0.1);
+  -webkit-box-shadow: 0px 2px 7px 0px rgba(44, 48, 94, 0.1);
+  -moz-box-shadow: 0px 2px 7px 0px rgba(44, 48, 94, 0.1);
+}
+
+.boxShadow {
+  box-shadow: 0px 2px 13px 0px rgba(44, 48, 94, 0.1);
+  -webkit-box-shadow: 0px 2px 13px 0px rgba(44, 48, 94, 0.1);
+  -moz-box-shadow: 0px 2px 13px 0px rgba(44, 48, 94, 0.1);
+}
+
+.profileShadow {
+  box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 15px 0px rgba(0, 0, 0, 0.1);
+}
+
+.iconShadow {
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-scrollbar  {
+  width: 0px !important;
+}
